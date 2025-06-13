@@ -297,7 +297,7 @@ from scipy.stats import pareto
 
 print(f'Point 3: Pareto distributed time services')
 
-k = 2.05
+k = 1.05
 #mst = E[X] = k /( k-1)*b => b = (k-1)*mst/k
 b = (k-1)*mst/k
 
