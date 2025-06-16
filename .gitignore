@@ -1,4 +1,8 @@
-*.png
+Day_1/histogram_available.png 
+Day_1/histogram_bad_lg.png 
+Day_1/histogram_lcg.png 
+Day_1/histogram_p_values.png 
+Day_1/histogram_rng.png
 
 Day_4/ex_5_point_5_samuele.ipynb 
 Day_4/Ex_5_Samuele.ipynb
